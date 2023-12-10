@@ -1,9 +1,6 @@
 # Name : Html Hosting Page 
 
-![Uploading Screenshot 1402-09-19 at 19.06.15.png…]()
-
-
-
+<img src="/image/page.png">
 ## Key Topics
 
 * Standard Web Coding
